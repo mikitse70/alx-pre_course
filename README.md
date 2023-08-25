@@ -1,2 +1,1 @@
-My first readme
-for pull
+My first readme for pull
